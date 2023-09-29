@@ -1,0 +1,94 @@
+:root {
+  --primaria: #e7e5e5;
+  --secundaria: #333333;
+  --terciaria: #ccc;
+  --quaternaria: #00008b;
+}
+
+body {
+  width: 80%;
+  min-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: var(--primaria);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--secundaria);
+  padding-bottom: 4rem;
+}
+
+h1 {
+  background-color: var(--terciaria);
+  padding: 0.1rem 1rem;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  color: var(--quaternaria);
+  text-transform: uppercase;
+}
+
+.center {
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5rem;
+  background-color: var(--terciaria);
+  color: var(--quaternaria);
+  padding: 0.5rem;
+  border-bottom: 0.1rem solid;
+  margin-bottom: 0.8rem;
+  margin-top: 2rem;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: var(--quaternaria);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  margin: 0;
+  padding-left: 0;
+}
+
+li {
+  list-style: inside;
+}
+
+.nav-social {
+  /* list-style: none; */
+  text-align: center;
+  margin: 1.2rem;
+}
+
+.nav-social li {
+  display: inline-block;
+}
+
+.nav-social li a {
+  padding: 0.5rem;
+  background-color: var(--terciaria);
+  margin: 0.12rem;
+  border-radius: 0.2rem;
+  color: var(--quaternaria);
+  text-decoration: none;
+}
+
+.nav-social li a:hover {
+  background-color: var(--quaternaria);
+  color: var(--primaria);
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    padding: 0 2rem;
+    /* background-color: #333333; */
+  }
+}
