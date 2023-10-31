@@ -7,6 +7,8 @@ Mais sobre o curso, *recomendo*: https://www.udemy.com/course/curso-web-design-f
 Fiz o desafio por conta, não usei nem o html e nem o css instruido na aula, fiz com o conhecimento que tinha até o momento do exercício.
 *Fiz leves ajustes para adaptar ao mobile*
 
+<a href="https://codepen.io/devtbraga/pen/vYbKyjE" target="_blank">Veja no CodePen</a>
+
 ![Captura de tela 2023-09-29 125409](https://github.com/devtbraga/curso-CSS-daniel-topias-serliv-udemy/assets/40052185/7802c17e-389d-478b-a877-a0a0f37dc618)
 
 
@@ -14,6 +16,9 @@ Fiz o desafio por conta, não usei nem o html e nem o css instruido na aula, fiz
 
 ### Desafio da Calculadora em Grid
 Fiz sem acomapanhar a aula, apenas peguei as diretivas e usei a imagem e a disposição dos botões.
+<a href="https://codepen.io/devtbraga/pen/abXNLWX" target="_blank">Veja no CodePen</a>
+[https://codepen.io/devtbraga/pen/vYbKyjE](https://codepen.io/devtbraga/pen/abXNLWX)
+
 ![Captura de tela 2023-09-28 170154](https://github.com/devtbraga/curso-CSS-daniel-topias-serliv-udemy/assets/40052185/7f992526-f0bc-4124-89e8-3d0d8857a836)
 
 
@@ -21,6 +26,9 @@ Fiz sem acomapanhar a aula, apenas peguei as diretivas e usei a imagem e a dispo
 
 ### Exercício Escolha seu Plano
 Segui mais as instruções e não fiz nenhuma mudança, ainda pretendo adaptar para mobile.
+<a href="https://codepen.io/devtbraga/pen/vYbKyjE" target="_blank">Veja no CodePen</a>
+[https://codepen.io/devtbraga/pen/vYbKyjE](https://codepen.io/devtbraga/pen/vYbKyjE)
+
 ![Captura de tela 2023-09-29 123734](https://github.com/devtbraga/curso-CSS-daniel-topias-serliv-udemy/assets/40052185/4ecbf176-662a-405b-a602-d58ff6437eeb)
 
 
@@ -28,4 +36,11 @@ Segui mais as instruções e não fiz nenhuma mudança, ainda pretendo adaptar p
 
 ### Landing Page Moda Ora
 Usei o texto e as imagens e realizei o desafio por conta, depois assisti a solução.
+<a href="https://codepen.io/devtbraga/pen/zYeBoEJ" target="_blank">Veja no CodePen</a>
+[https://codepen.io/devtbraga/pen/zYeBoEJ](https://codepen.io/devtbraga/pen/zYeBoEJ)
+
 ![FireShot Capture 402 - Moda Ora - localhost](https://github.com/devtbraga/curso-CSS-daniel-topias-serliv-udemy/assets/40052185/c7cd3b52-eec1-47f7-9957-5ae0eb31fd57)
+
+### Veja outros
+-> <a href="https://codepen.io/devtbraga/pen/rNoPOMy" target="_blank">Desafio de Cards responsivos, disponível no CodePen</a>.
+
